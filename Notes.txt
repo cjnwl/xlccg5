@@ -1,0 +1,97 @@
++-------------------+
+| Counter generator |
++-------------------+
+
+
+General notes
+-------------
+
+This is written for Excel 2003. I do not know if it will work with 2007 and later.
+
+This is v3 of my "counter generator". The first version was written using Powerpoint. Color management was much better, but it was difficult to store the values. So I switched to Excel for v2. Excel's color management is not so good, as cells can only be one of 56 colors, whereas drawn objects can be any color. So the example color sheet is only approximate. V1 and v2 had all information on a single worksheet (values and colors), and positions were hard-coded into the program. This was easier to modify, but entailed a very large amount of duplication of information, and was far less powerful.
+
+V3 switched to the present system of multiple worksheets, which is slightly harder to understand (unless you are used to using databases, in which case each sheet is a table), but the most efficient to use.
+
+Excel is not as convenient as Powerpoint for fitting the output to a printable page. I am doing tests with Word, but this creates a whole range of problems, so I do not think I will take this any further. I have not tried Access as I do not know it well enough, in particular the report writer. Ideally I would like to find some sort of compiler to create a stand-alone executable. 
+
+Future versions will include the following improvements:
+- Different size units (LCU, SCU, etc)
+- Different shapes (rectangle, circle, hexagon, etc)
+- Colour gradients.
+
+
+Usage
+-----
+
+Parameters
+==========
+This sheet defines some basic parameters, such as the grid size, counter size, and number of counters per row.
+Note that the counters are drawn with the backs in reverse order.
+
+Types
+=====
+List of unit types.
+Each unit type defines a set of data positions on the counter, regardless of colors. So, for example, infantry units from both sides can be of the same type.
+
+Fields
+======
+Defines the text or image elements that are to appear on each counter for each type of unit.
+The following fields are used:
+- type: unit type, must correspond to a type on the "types" sheet.
+- name: the name of the element, such as "Attack", "Movement", "Range", etc
+- nature: must be either "text" or "image". If "text", the element will be a textbox (may be empty, or with a transparent background). If "image", an image file will be inserted.
+- front/back: indicates whether the element is to appear on the front or the back of the counter, or both; "f", "b", or "fb".
+- left, top: starting coordinates of the element within the counter
+- width, height: self-explanatory...
+These 4 fields are defined realtive to an imaginary grid drawn on the counter. The size of the grid is defined on the "parameters" sheet. In the example given, the grid is 26x26.
+The following fields are only used for text elements. If you change the gridsize, you will have to recalculate all positions and sizes.
+- font: font name (default is arial)
+- size: font size. Default is 2/3 of the element height, but this does not always give the best results. However if you set a manual value, you will have to change it if you change the counter size.
+- bold: TRUE if the text is to be in bold
+- uline: TRUE if underlined
+- shadow: TRUE if shadowed (does not work in Excel)
+- outline: TRUE if outlined (does not work in Excel)
+- orientation: UP or DOWN for vertical text, defaults to horizontal. Upside-down is not allowed (though it would be possible to add if necessary)
+- align: LEFT or RIGHT, default is centered
+- transp: TRUE if the background is transparent
+- empty: TRUE if the element should appear even if there is no text (a "reduced stripe", for example)
+Note that the order of the fields is important, as they are drawn in order, and a later will field will be superimposed on an earlier field. In the following sheets, the field order must be identical.
+
+Schemes
+=======
+List of color schemes.
+As a general rule, for each unit type, there will be several color schemes, for each army or nationality. It is also possible to use a single color scheme for several unit types, so long as all elements are similar.
+
+FieldColours
+============
+List of foreground and background colors for each color scheme. For each scheme there must be two additional lines for the front and back of the counter. The colors used must correspond to one of the colors defined on the "colours" sheet. I have put colors almost everywhere, but in some cases these are unnecessary (foreground for the front and back values, or background for the back if covered by a flag, for example). If a color is needed  but not given, it defaults to black.
+
+Colours
+=======
+List of color names.
+Each name defines a unique RGB color value. As mentioned above, Excel can only use 56 colors for cells, so the example column is not 100% accurate. I have defined a fairly comprehensive list of colors, and some specific nationalities. Other colors can be defined as needed. A good reference is http://en.wikipedia.org/wiki/List_of_colors.
+
+The preceding sheets must be unique and with the names as given. The final sheet can be duplicated and renamed at will (in the example there are NAP and MOD)
+
+List (or any other name for the unit list)
+====
+Finally, what we have all been waiting for...
+The first two columns must be the type and scheme. The following columns depend on the unit typê, and must be given in the correct order as defined on the fields tab. You can insert header rows as an aid, but in this case the first field of the row must be blank. For images, the name must correspond to an existing file in the "images" subfolder. Do not give an extension, gif, jpg or png is assumed. To launch the unit generation, click on the "Go" button. A new sheet will be created with the generated counters. You can generate the counters as many times as you like, a new sheet will be created each time. Do not forget to delete unwanted counter sheets.
+You can temporarily mark a unit with an "x" in the first column; it will not be generated.
+
+
+The two example sheets show some simple modern Panzerblitz style counters, and a very much more elaborate set of napoleonic counters.
+
+The program itself is written with Excel-VBA. It is not protected, so if you know VBA you can have a look at how it works. I have no pretensions to be a good programmer, so the code is provided "as is". There is very little error checking, but almost all errors that occur will be because of typos; usually undefined types or schmes, or nonexistant image files.
+
+If you have any comments or ideas for improvements, please let me know. If you modify the code, let me know too, explaining why you have made any changes. If you want changes made, you can ask, and I may incorporate them into future versions.
+
+
+Some of the sample images are used with the kind permission of GMT Games LLC.
+The other sample images are either created by myself, from AH Panzerblitz or taken from the net.
+If any rights-holders have any objections to the inclusion of their images with this package, please get in touch with me and I will remove them at once.
+
+
+Enjoy...
+Chris Newell
+cjnwl(at)hotmail.com

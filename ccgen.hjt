@@ -1,0 +1,2124 @@
+<TreePad version 7.7>
+
+<bmarks>
+<end bmarks> 5P9i0s8y19Z
+
+
+<options>
+icontransp=0
+<end options> 5P9i0s8y19Z
+
+<scrpbk>
+
+<end scrpbk> 5P9i0s8y19Z
+id=1
+nodeguid=EB6B0B504BF6A0B62B1EC52ADF8C17E876DB2646
+dtch=20200912-163214
+usrch=christopher.newell
+dtcr=20200520-102206
+usrcr=christopher.newell
+dt=Text
+<node>
+CCGEN
+0
+<end node> 5P9i0s8y19Z
+id=70
+nodeguid=1A3C60DFFF6DF55D4836132CCBE9B4A32249E27B
+dtch=20200916-115905
+usrch=christopher.newell
+dtcr=20200811-103324
+usrcr=christopher.newell
+dt=RTF
+<node>
+History/to-do
+1
+{\rtf1\ansi\deff0\deftab850{\fonttbl{\f0\fnil\fcharset0 consolas;}{\f1\fnil\fcharset0 consolas;}{\f2\fnil\fcharset2 symbol;}{\f3\fnil\fcharset2 WingDings;}{\f4\fnil\fcharset0 Calibri;}}{\colortbl\red0\green0\blue0;\red255\green0\blue0;\red0\green128\blue0;\red0\green0\blue255;\red255\green255\blue0;\red255\green0\blue255;\red128\green0\blue128;\red128\green0\blue0;\red0\green255\blue0;\red0\green255\blue255;\red0\green128\blue128;\red0\green0\blue128;\red255\green255\blue255;\red192\green192\blue192;\red128\green128\blue128;\red0\green0\blue0;\red31\green73\blue125;}\wptoolsver4\wpprheadfoot0\paperw11906\paperh16838\margl567\margr567\margt567\margb567\headery720\footery720{\*\listtable{\list\listtemplateid19690212{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent720\levelnfc1{\leveltext\'02\'00.;}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent720\levelnfc3{\leveltext\'02\'01.;}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent720\levelnfc0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent720\levelnfc4{\leveltext\'02\'03);}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent720\levelnfc0{\leveltext\'02\'04);}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent720\levelnfc4{\leveltext\'02\'05);}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent720\levelnfc2{\leveltext\'02\'06);}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent720\levelnfc4{\leveltext\'02\'07);}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent720\levelnfc2{\leveltext\'02\'08);}{\levelnumbers\'01;}}
+\listid1194737}}{\*\listoverridetable{\listoverride\listid1194737\listoverridecount0\ls1}}\endnhere\sectdefaultcl{\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 =================================\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 Version history\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 ---------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 1\tab PPT : Somosierra\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab Word (lost)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 2\tab Excel hard-coded\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 3\tab Excel\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 4\tab Excel, add shapes and lines, blank and bleed, change of structure\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 4.1\tab ?\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 4.2\tab Split code from data, aborted\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 4.0.4\tab (March 2020) Colour override for both FG and BG (text element only)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab recalc of coordinates for text elements\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab svg output to debug window (beginning)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 4.0.8\tab (july/august) multiple images\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 4.0.10\tab (august) format overrides, at start of field data, in any order\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab \tab ** : bold\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab \tab __ : underline\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab \tab !! : italic\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab // for CRLF\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab colour-override and double square bracket in same field, e.g.: 2[[7][white]\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 5.0\tab (august 2020)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab split code from data (\'e0 la 4.2.0)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab reverse bleed\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab gradient start and end (change of structure in elementcolours sheet)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab ++n\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab print backs only (true/false/back)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab text outline, valign (change of structure in elements sheet)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab ignore structure errors\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab tweak to column-width calculation\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab bold override only if not only stars (eg: **** in jdgc)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab optional lock aspect ratio (element bold=true)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab text angle\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 5.1\tab (september 2020)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab template element inheritance \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 =================================\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 To-do\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 ---------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab counter FG and BG to schemes tab ? (major upgrade, maintain backward compatibility ?)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 x\tab icon type\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab pixel type (can be "rectangle" shape)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab user-defined shapes (how to store, as SVG ?)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab shapes in "db", output samples\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab syscolours in "db", output samples\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 x\tab qty as fixed column (major upgrade, maintain backward compatibility ?)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab multiple blocks on same line\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab row offsets (hexagonal counters)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 x\tab ribbon menu, create files etc\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab split view (header rows)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab adaptable header rows (template on type, manifest on template)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 x\tab relative and absolute font sizes (=12, *120, default up to 20 is absolute, greater is %)(or default is *)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab text in shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab override fonts, size\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab image size % (positioning ?)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab cc:a samples\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab colours and shapes sheets in app, veryhidden, create form to display samples\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab \tab colour samples\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab \tab shape samples, better shapes sample sheet, sample macros\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab ++ within text (1++ Gd)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab path and radial gradient : save as shape templates on hidden sheet in ccg app file\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 x\tab inline html text formatting : instead of **bold[red] : <b><red>bold<green>green</b><black>normal\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 x\tab test for missing columns on start, report (and abort ?) if some are missing \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 x\tab test for missing template elements, scheme elements\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab create new file (tab "ws" names in VBA editor)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab manual new block, or force continuation : "blockfeed", "blockcarry" directives, "vsprue" for blocks on same line\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab cutting guides\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab repeat images (v- and h-offset)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab border thickness\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab delete column A after backs-only\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab overrides fg/bg/bg2/gradxxx/font/size\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 x\tab element drawing order different from declaration order\tab \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 x\tab template element inheritance (modify)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab image resize & offset (shapes too)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab variable shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab border-colour, border-stroke, border-style (full, none, corner, rounded)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab \plain\f0\fs20\cf0 colour schemes inheritance too\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f0\fs20\cf0 \tab add placeholder columns : elements:order & manifest:qty & id?\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f0\fs20\cf0 \tab new macro : print by id\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f0\fs20\cf0 \tab rewrite output code : debugprint, svgprint, screenprint\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f0\fs20\cf0 ---------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 ---------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab text help\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab tutorial\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab help file\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 ---------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 =================================\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 Bugs\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 ---------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 x\tab col width should be on used sizes only, only calculate at end ?\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \tab wbApp sometimes undefined ?\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 x\tab generate selection : copy values instead of formulas\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 ---------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 =================================\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 Specific\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 ---------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 Somosierra\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 Stalin's War\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 Shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 LMN\tab \tab v5_ok\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 NAW\tab \tab v5_ok\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 CC:A\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 Fleets\tab \tab v5_ok\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 JDGC\tab \tab v5_ok\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 PB\tab \tab v5_ok\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 WW\tab \tab v5_ok\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 JDG\tab \tab \tab \tab heavy/elite indicator, subunit text, flag and/or text for MAs\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 - borkowo\tab v5_ok\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 - salamanca\tab v5_ok\tab \tab (move to new generic jdg "borkowo" templates)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 - molins\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 vietnam\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 Europa\tab \tab v5_ok\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 1989cards\tab v5_ok\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 pokercards\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 business cards\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 address labels\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 ---------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f1\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 Hi Rich,\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 Welcome to the group !\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 I've never been on one of these groups before, so I'll probably need a primer on how to use/manage one.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 I've deleted all of the files that were up, and uploaded the new versions. The main app file (ccg.v5.0.0.app.xlsm) and the individual "game" xlsx files should be downloaded to a single folder, and each of the zips (which contain the images) should be unzipped into a subfolder (so, jdg.zip into subfolder jdg, and so on).\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 Compared to the versions that I sent you previously, the application file is now separate from the game data files. This makes it much easier to keep the app up-to-date, as the code is no longer duplicated in each game file. I've changed the version to v5 to reflect this major change. From now on I'll try to maintain backward compatibility with older game files, though for some of the ideas I have for upgrades this may turn out to not be possible. I plan to change this into an Excel add-on, but it needs a bit more work before then.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 To run the app, you now have to open the main file, and then a game file, and go to the manifest tab (usually the last). From this tab, press alt-F8, and run the "LetsGo" macro to generate the counters. Alternatively, on the manifest tab you can select a subset of lines and run the "GenerateSelection" macro, but at present this doesn't work if there are formulas on the manifest sheet (this is a small bug that is easy to fix). Note that there can be as many manifest sheets in a game file as desired, and you can generate the counters as many times as desired too. \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 The code itself is now quite stable, though there's still very little error checking, but almost all crashes are due either to typos, missing image files, or some error in the data. The lengthiest process is creating templates and colour schemes that approximate as closely as possible what you're trying to achieve. This is of course easier if you're creating a new game as opposed to reproducing an existing set of counters.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 The counters are generated as a set of MS drawing objects, so it's easy to touch things up if required. This is what I had to do for the Washington's War circular counters, as it appears that there's no way to generate the circular gradient via VBA, so I had to tweak the rectangular gradients manually.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 Once the counters are generated, select the necessary cells and copy-paste into your graphics program, and save to png or whatever. I use paint.net, but MS-paint, Gimp, Photoshop, or any other app will do the trick too. I've tried selecting all of the individual objects and copying into inkscape to be able to use them as objects, but this crashes inkscape.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 I've also created a set of sample 1899 cards, to show that the app can be used for cards too, and I'm working on a set of sample business cards and address labels, to move away from the pure gaming world and show other practical uses for the app.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 I'm also working on the instructions/help file, I should have a rough version ready in a couple of days. If you look at the examples, the main things to look out for are the parameters tab (image folders and double-sided), the elements and the elementcolours tabs, and the actual manifest.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 Hopefully you will be able to understand how the system works, but let me know if you have any questions.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 Chris\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 -------------------------------------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 Here are some notes on the individual sample files provided :\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 LMN (Lee Moves North) : about as simple as it's possible to get.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 NAW (Nap at Waterloo) : very simple too, shows use of bleed and blank counters\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 PB (Panzerblitz) : simple too, but by changing the image source (pb_bw or pb_clr) you can radically change the appearance\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 Fleets : a slightly more complex template\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 JDGC (Leipzig 1813) : based on the Jours de Gloire Campagne games, the templates are simple enough, but there's an extensive set of Allied colour schemes to account for the number of armies and nationalities involved. The background colour reflects the unit's nationality (Russian, Prussian, Austrian and Swedish), while the name bar shows the army it belongs to (North, Silesia, Bohemia, and Poland), for 16 possible combinations, though not all actually exist. This could have been simpler with use of colour overrides, but this example keeps the actual manifest very clean. This shows too that the same scheme can be used for different templates, so long as all the elements are the same type. Note that the template and scheme names are in French on this one. \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 Washington's War : use of gradients and shapes, and colour overrides for each nationality (there's only one colour scheme per template).\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 JDG (Jours de Gloire: Borkowo and my own Salamanca) : Quite extensive use of colour overrides to keep the number of schemes down (compare to JDGC), at the cost of added complexity to the manifest sheet. Also use of formulas to assemble data in cells.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 Europa : a fairly simple set of templates, but many colour schemes would be needed to create some other counter sheets. Also, NATO symbols would need to be created for all unit types, and in all required colours. I may try to create an imageMagick script that can modify all the colours easily (or ask on BGG for imageMagick gurus). \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 Done :) : \plain\f4\fs22\cf3\uldb\ul https://boardgamegeek.com/thread/2497002/looking-imagemagick-or-other-image-scripting-app-g\plain\f4\fs22\cf0\v https://boardgamegeek.com/thread/2497002/looking-imagemagick-or-other-image-scripting-app-g\plain\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 Got the reply I needed, problem solved. Now all I need to do is create an ICON type and call imagemagick from excel if the required colour doesn't exist :D\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 1989 : sample cards for a CDG. The Ops/Event cards are quite simple, but the scoring card template is much more involved. It shows that images need to be appropriately sized (aspect ratio) before using them in the app.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 -------------------------------------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 =================================\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 Version history\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 ---------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 1             PPT : Somosierra\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 2             Word, aborted, then Excel hard-coded\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 3.0         Excel, with templates and schemes on tabs\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 3.1\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 3.2\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 3.3         dbseek for properties, italic, shapes and lines\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 4             Excel, double-sided as option, blank and bleed, identical counters, ++, change of structure\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 4.1         ?\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 4.2         Split code from data, aborted\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 4.0.4      (March 2020) Colour override for both FG and BG (text element only)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                recalc of coordinates for text elements\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                svg output to debug window (beginning)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 4.0.8      (july/august) multiple images\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 4.0.10    (august) format overrides, at start of field data, in any order\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                               ** : bold\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                               __ : underline\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                               !! : italic\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                // for CRLF\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                colour-override and double square bracket in same field, e.g.: 2[[7][white]\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 5.0.0      (august) split code from data (as in 4.2.0)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                reverse bleed\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                gradient start and end points (change of structure in elementcolours sheet)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                ++n\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                print backs only (true/false/back)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                text outline, valign (change of structure in elements sheet)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                ignore some structure errors\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                tweak to column-width calculation\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                bold override only if not only stars (eg: **** in jdgc)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                optional lock aspect ratio (element bold=true)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 ---------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 =================================\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 To-do\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 ---------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                counter FG and BG to schemes tab ? (major upgrade, maintain backward compatibility ?)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                icon type (create an ICON type and call imagemagick from excel if the required colour doesn't exist)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                pixel type (can be "rectangle" shape)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                user-defined shapes (how to store, as SVG ?)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                shapes in "db", output samples\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                syscolours in "db", output samples\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                qty as fixed column (major upgrade, maintain backward compatibility ?)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                multiple blocks on same line\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                row offsets (hexagonal counters)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                turn in add-on, ribbon menu, create files etc\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                split view (header rows)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                adaptable header rows (template on type, manifest on template)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                relative and absolute font sizes (=12, *120, default up to 20 is absolute, greater is %)(or default is *)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                text angle (or UD and/or 180 for upside-down)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                text in shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                override fonts, size\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                image size % (positioning ?)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                colour samples\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                shape samples, better shapes sample sheet, sample macros\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                ++ within text (1++ Gd)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                rounded corners\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                path and radial gradient : save as shape templates on hidden sheet in ccg app file (vba bug)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                font outline line weight doesn't work (or does it ?)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                markup text formatting : instead of **bold[red] : <b><red>bold<green>green</b><black>normal, \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                   or *<red>bold<green>green*<black>normal (need to be able to escape special chars *_!<>)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                test for missing columns on start, report (and abort ?) if some are missing \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                test for missing template elements, scheme elements\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                create new file (tab "ws" names in VBA editor, column headers)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                manual new block, or force continuation : "blockfeed", "blockcarry" directives, "vsprue" for blocks on same line\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                cutting guides\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                repeat images (v- and h-offset)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                border thickness\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                delete column A after backs-only\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                overrides fg/bg/bg2/gradxxx/font/size\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                element drawing order different from declaration order\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                add path to imagemagick (if not in PATH)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16                make common always a default image folder\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f4\fs22\cf16 }}
+}
+
+<end node> 5P9i0s8y19Z
+id=71
+nodeguid=DE1F0F991DB7977F5CFFCD6B2D7CF0A95C09928F
+dtch=20200827-162649
+usrch=christopher.newell
+dtcr=20200817-104138
+usrcr=christopher.newell
+dt=RTF
+<node>
+from Excel 4.0.5
+1
+{\rtf1\ansi\deff0\deftab850{\fonttbl{\f0\fnil\fcharset0 consolas;}{\f1\fnil\fcharset0 consolas;}{\f2\fnil\fcharset0 Arial;}{\f3\fnil\fcharset2 symbol;}{\f4\fnil\fcharset2 WingDings;}}{\colortbl\red0\green0\blue0;\red255\green0\blue0;\red0\green128\blue0;\red0\green0\blue255;\red255\green255\blue0;\red255\green0\blue255;\red128\green0\blue128;\red128\green0\blue0;\red0\green255\blue0;\red0\green255\blue255;\red0\green128\blue128;\red0\green0\blue128;\red255\green255\blue255;\red192\green192\blue192;\red128\green128\blue128;\red0\green0\blue0;\red51\green102\blue255;}\wptoolsver4\wpprheadfoot0\paperw11906\paperh16838\margl567\margr567\margt567\margb567\headery720\footery720{\*\listtable{\list\listtemplateid19690212{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc1{\leveltext\'02\'00.;}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc3{\leveltext\'02\'01.;}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc4{\leveltext\'02\'03);}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc2{\leveltext\'02\'04);}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc4{\leveltext\'02\'05);}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc0{\leveltext\'02\'06);}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc0{\leveltext\'02\'07);}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc0{\leveltext\'02\'08);}{\levelnumbers\'01;}}
+\listid1194737}}{\*\listoverridetable{\listoverride\listid1194737\listoverridecount0\ls1}}\endnhere\sectdefaultcl{\pard{\*\wptable\tblright-567}{\pard\trowd\trgaph0\trleft0\cellx6403\cellx8671\cellx9071\cellx9916\cellx10494\cellx11339\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 Different size units (LCU, SCU, etc)\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 Different shapes (rectangle, circle, hexagon, etc)\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 Different coloured elements (eg: dots)\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 Output formats: - CounterSheet/DTP/ZunTsu - Individual/Vassal - GTL/Cyberboard\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 pdl\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 pcl\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 3.3: dbseek to simplify rewrites\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 hpcl\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 3.3: italic\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 svg\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 png\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 shapes:\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 - basic done\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 - shape params p1 & p2 (determine limits)\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 - rotation\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 - variable fill colour (if -1 then transparent)\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 - flip horizontal & vertical\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 - line\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 p1p2\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 line\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 flip\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1\b v4 (change of major version as change of structure)\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 rewrite code\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 coordinates (text/shape/image and line)\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 sizes\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 move unit f & b fill to schemes tab\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 n identical counters\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 image subfolder\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 sprues, number of rows per bloc (depends on size)\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 pb with single gridsize for shapes (squares, circles)\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1   => hgridsize and vgridsize\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 flip/rotate pictures\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 x hides counter\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 parameterize border colour\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 double sided as option\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 check coordinates calculations\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 increment values on identical counters (/+)\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0    if ++, till next value in field\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 calculate column width and row height...\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 don't move and resize with cells\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0\b v4.1\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 hex values for colours\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf1 true colours on colours tab\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 angled text\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 generate svg file\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 write help file\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0\b separate app from data (\'e0 la AC)  ====> v.5\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0\b standalone compiled app ====> v.6\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 autoit, basic, awk, convert\'85\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 template designer\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 scheme designer\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 overrides for all types of element\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 image frame\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 overrides for font, size, all colours etc\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 back values in same column : 4|2\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 qty as fixed column after scheme\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 check size and pos calculations, 1 pixel border around each unit\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 image aspect ratio (viewport)\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 text outline, shadow\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 element order\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 attribute order (alignment on sheets tab)\line usercolours by name (france = "lightblue")\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 define colour combos (fauconnet = "black/salmon")\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 dpi, paper size\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 sizes, units (inches, cm)\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 viewport\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 reverse: side-by-side, following, fronts-only backs-only\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 output: svg\line    then png/jpg/bmp/etc, gtl, nandeck, imagemagick\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0    then \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 generate front and back separately\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 gradient colours: eg [black/red>yellow:2-7]\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+}\pard{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 }}
+}
+
+
+
+
+
+
+
+
+
+<end node> 5P9i0s8y19Z
+id=72
+nodeguid=3C5B17698D62EA3795A4871A6C190D591E52E124
+dtch=20200818-154928
+usrch=christopher.newell
+dtcr=20200818-154829
+usrcr=christopher.newell
+dt=Text
+<node>
+from Word help file
+1
+History
+
+This version is written for Excel 2000 and 2003. I have not tested it with Excel 2007 and later.
+
+
+
+v.1
+
+The initial version of this app was for Powerpoint. All values, colours and positions were hard-coded into the programme, which made it difficult to setup and tweak. The output however was very good and immediately useable.
+
+
+
+v.2
+
+To facilitate the storing of unit values, I ported the Powerpoint macros into Excel. In this straight port, all values and colours were on a single sheet, and sizes and positions remained hard-coded. Excel does however present a number of disadvantages and limitations compared to Powerpoint:
+
+- colour management (cells)
+
+- output print-size
+
+- upside-down and angled text
+
+- outline and shadow fonts
+
+
+
+v.3
+
+With this version I switched to the current solution of multiple worksheets. While this may seem more complicated, it gives the user total control over all aspects of his counters. This version was the first to be released, via grognard.com, with a subject on CSW. Response was very limited...
+
+- square output only
+
+- user colours
+
+- fully configurable templates and colour schemes
+
+- brief text notes file
+
+
+
+v.3.1
+
+- colour gradients for backgrounds
+
+- x to skip counter
+
+
+
+v.3.2
+
+- this version was never finalized abandoned when I ran into personal difficulties. When I came back to the app I found it easier to start again 
+
+
+
+v.3.3
+
+- italics
+
+
+
+v.4.0
+
+This will probably be the final Excel version, and is virtually final in terms of capabilities
+
+- complete code rewrite
+
+- modified tab structure
+
+- rectangular output
+
+- shapes
+
+- lines
+
+- n identical counters
+
+- 0 counters
+
+- incremented values
+
+- blocks/sprues
+
+- image subfolder
+
+- border colour
+
+- single-sided
+
+- hex colours, rgb triplets
+
+- true colour samples
+
+- -1 transparency
+
+- gradients for text, shapes
+
+- BLANK template
+
+- comprehensive help file, tutorial
+
+
+
+Future plans
+
+- XL split data from app
+
+- VB standalone version
+
+- generate SVG, PNG files
+
+- output countersheet, individual counters, GTL
+
+- template designer
+
+
+
+ToDo
+
+- menus
+
+- test for page size when new row, if new page jump and reset group/sprue
+
+- +++
+
+- click on colour sample opens dialog
+
+- reset colour samples/shapes when activate sheet
+
+- generate selection
+
+- password on macros/protected sheets
+
+- define user colours by syscolour name
+
+
+
+Promotion
+
+- finish app
+
+- test/debug
+
+- help/tutorial/examples
+
+- online promotion (bgg, csw, grog, strat, estaf, ldb, tric)
+
+- collaboration (inkscape, java/png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<end node> 5P9i0s8y19Z
+id=73
+nodeguid=DDE099456F626FCDA5D62114C39B36C7FE1852B9
+dtch=20200912-161130
+usrch=christopher.newell
+dtcr=20200819-095620
+usrcr=christopher.newell
+dt=Text
+<node>
+Doc structure
+1
+CCG
+  Introduction
+  Overview
+  Typographic conventions
+  Generator
+    Parameters
+    Sizes
+    Templates
+      text
+      images
+      lines
+      shapes
+      icons
+      pixels ?
+    Colour Schemes
+    User Colours
+    Counter Sheets
+  Ribbon/Menus
+  Tutorial
+    Templates
+    Values
+      ++,++n
+    Colours
+    Shapes
+    Cards
+    Sample Files
+  Layout Builder
+  Reference
+    Tabs
+      Parameters
+      Sizes
+      Templates/Elements
+      Colour Schemes/Element Colours
+      User Colours
+      Counter Sheets
+    Elements
+      Text
+      Images
+        size
+        aspect-ratio
+      Icons
+        colour
+      Pixels ?
+      Lines
+      Shapes
+        Rectangle
+        Circle
+        Triangle
+        Hexagon
+        Arrow
+        Explosion
+        Others...
+        User-defined
+    Colours
+      RGB Colours
+      CSS Colours
+  Acknowledgments
+  History/To-do
+  Contact
+  About
+
+
+
+
+<end node> 5P9i0s8y19Z
+id=74
+nodeguid=B9A6DF2A2B6BC64A26C89AE4E730D310151CD508
+dtch=20200912-163404
+usrch=christopher.newell
+dtcr=20200907-191612
+usrcr=christopher.newell
+dt=RTF
+obj=FF9601CB65FF7A3AC019B15748ADFFC52EF3E282.bmp
+obj=25E257E7C03EFF149BCBF90500D0E54B5A68742C.bmp
+obj=46696F651C9CAF0062CD003F60E04F6AD1560FF0.bmp
+obj=2D1A343908D5B20F619B233C2783659E0D963BE0.bmp
+obj=98A933CF2A30850542A07FB6E2E8594B871F47F4.bmp
+obj=C953A312300F096F25C58EF2D384583E82A2F6D8.bmp
+obj=4E532E66F0230C16311028B174AB1ECFA5DADD36.bmp
+<node>
+Doc
+1
+{\rtf1\ansi\deff0\deftab850{\fonttbl{\f0\fnil\fcharset0 consolas;}{\f1\fnil\fcharset0 consolas;}{\f2\fnil\fcharset0 Arial;}{\f3\fnil\fcharset0 Courier New;}{\f4\fnil\fcharset2 Symbol;}{\f5\fnil\fcharset2 Wingdings;}{\f6\fnil\fcharset0 Tahoma;}{\f7\fnil\fcharset0 Verdana;}}{\colortbl\red0\green0\blue0;\red255\green0\blue0;\red0\green128\blue0;\red0\green0\blue255;\red255\green255\blue0;\red255\green0\blue255;\red128\green0\blue128;\red128\green0\blue0;\red0\green255\blue0;\red0\green255\blue255;\red0\green128\blue128;\red0\green0\blue128;\red255\green255\blue255;\red192\green192\blue192;\red128\green128\blue128;\red0\green0\blue0;\red0\green0\blue0;\red54\green95\blue145;\red79\green129\blue189;}\wptoolsver4\wpprheadfoot0\paperw11906\paperh16838\margl567\margr567\margt567\margb567\headery720\footery720{\*\listtable{\list\listtemplateid19690212{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0\levelnfc23\fi-360\li360{\leveltext\'02·\'00;}{\levelnumbers\'02;}\f4\fs24}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0\levelnfc23\fi-360\li1080{\leveltext\'02·\'01;}{\levelnumbers\'02;}\f3\fs24}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0\levelnfc23\fi-360\li1800{\leveltext\'02·\'02;}{\levelnumbers\'02;}\f5\fs24}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0\levelnfc23\fi-360\li2520{\leveltext\'02·\'03;}{\levelnumbers\'02;}\f4\fs24}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0\levelnfc23\fi-360\li3240{\leveltext\'02·\'04;}{\levelnumbers\'02;}\f3\fs24}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0\levelnfc23\fi-360\li3960{\leveltext\'02·\'05;}{\levelnumbers\'02;}\f5\fs24}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0\levelnfc23\fi-360\li4680{\leveltext\'02·\'06;}{\levelnumbers\'02;}\f4\fs24}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0\levelnfc23\fi-360\li5400{\leveltext\'02·\'07;}{\levelnumbers\'02;}\f3\fs24}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0\levelnfc23\fi-360\li6120{\leveltext\'02·\'08;}{\levelnumbers\'02;}\f5\fs24}
+\listid1194737}}{\*\listoverridetable{\listoverride\listid1194737\listoverridecount0\ls1}}\endnhere\sectdefaultcl{\pard{\qc\li0\fi0\ri0\sb4500\sl0\sa0 \plain\f6\fs80\cf0 \par
+\ql\li0\fi0\ri0\sb105\sl0\sa105 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b Overview\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf1 Note that the counters are drawn with the backs in reverse order.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf1 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf1 The program itself is written with Excel-VBA. It is not protected, so if you know VBA you can have a look at how it works. I have no pretensions to be a good programmer and the code is provided "as is". There is very little error checking, but almost all errors that occur will be because of typos; usually undefined types or schemes, or nonexistant image files.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf1 If you have any comments or ideas for improvements, please let me know. If you modify the code, let me know too, explaining why you have made any changes. If you want changes made you can ask, and I may incorporate them into future versions.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf1 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf1 Enjoy...\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf1 Chris Newell\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf1 cjnwl(at)hotmail.com\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 All of these steps are explained in more detail in the tutorials.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs26\cf18\b Limitations\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - angled text/upside-down\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - outline/shadow text attributes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - flip/rotate images\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+{\brdrb\brdrs\brdrw15\ql\li0\fi0\ri0\sb75\sl0\sa450 \plain\f6\fs28\cf17\b {\*\bkmkstart _topic_Menus}{\*\bkmkend _topic_Menus}\plain\f6\fs28\cf17\b Menus\par
+}\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b Menus\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b Tabs\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 The tabs can be divided into 3 categories; those used to set up the templates and colour schemes, those used mainly for reference purposes, and finaly the manifest(s).\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 All the sheets except for the manifests must be unique and with the names as given. There can be several different manifests, and they can be given any meaningful name.\par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_GeneralParameters}{\*\bkmkend _topic_GeneralParameters}\plain\f6\fs26\cf18\b General Parameters\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs26\cf18\b \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs26\cf18\b Parameters\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 This sheet defines a few basic parameters:\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+}{\*\wptable\tblright-60}{\pard\trowd\trgaph0\trleft0\cellx1359\cellx10832\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Margin\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Sprue height\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Image folder\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Border colour\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Double-sided\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Other parameters may be added in future, such as DPI, ...\par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_Sizes}{\*\bkmkend _topic_Sizes}\plain\f6\fs26\cf18\b Sizes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b Sizes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 A table with the different counter and/or card sizes to be used. A number of common sizes are pre-defined, but you can change them or add others if you wish.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright1435}{\pard\trowd\trgaph0\trleft0\clshdng10000\clcfpat13\clcbpat12\cellx2270\clshdng10000\clcfpat13\clcbpat12\cellx3441\clshdng10000\clcfpat13\clcbpat12\cellx4650\clshdng10000\clcfpat13\clcbpat12\cellx5821\clshdng10000\clcfpat13\clcbpat12\cellx6993\clshdng10000\clcfpat13\clcbpat12\cellx8165\clshdng10000\clcfpat13\clcbpat12\cellx9337\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Name\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Width\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Height\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Rowsize\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b BlockSize\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b HGridsize\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b VGridsize\cell}\row
+}{\*\wptable\tblright1435}{\pard\trowd\trgaph0\trleft0\cellx2270\cellx3441\cellx4650\cellx5821\cellx6993\cellx8165\cellx9337\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 LCU\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 52\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 52\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 4\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 2\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 24\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 24\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 SCU\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 52\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 52\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 1\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 2\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 24\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 24\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 CARDS\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 162\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 234\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 1\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 3\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 24\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 24\cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 For each size, the following values are defined:\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright-60}{\pard\trowd\trgaph0\trleft0\cellx1359\cellx10832\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Name\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Width\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Height\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Rowsize\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Blocksize\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 HGridsize\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 VGridsize\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+}\pard{\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_Layouts}{\*\bkmkend _topic_Layouts}\plain\f6\fs26\cf18\b Templates\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs26\cf18\b \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b Templates\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Each template defined on this tab \plain\f7\fs20\cf0\b must\plain\f7\fs20\cf0  have a set of corresponding elements on the "Elements" tab.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Each unit template defines a set of data positions on the counter, regardless of colours. So, for example, infantry units from both sides can have the same template.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 There is also a predefined "Blank" template which you can use in any manifest list. As its names implies, it will draw blank counters.\par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_Elements2}{\*\bkmkend _topic_Elements2}\plain\f6\fs26\cf18\b Elements\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs26\cf18\b \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs26\cf18\b Elements\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Defines the text or image elements that are to appear on each counter for each type of unit.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 The second header row corresponds to the use of the element for shapes, where different from text and images.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf1 The following fields are only used for text elements. If you change the grid size, you will have to recalculate all positions and sizes.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+}{\*\wptable\tblright-90}{\pard\trowd\trgaph0\trleft0\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx1448\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx4344\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx5537\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx9456\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx10862\intbl{\qc\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b Field\cell}
+\intbl{\qc\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b Text\cell}
+\intbl{\qc\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b Image\cell}
+\intbl{\qc\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b Shapes\cell}
+\intbl{\qc\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b Lines\cell}\row
+}{\*\wptable\tblright-90}{\pard\trowd\trgaph0\trleft0\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx1448\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx10862\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b Template\cell}
+\intbl{\qc\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 must correspond to a Template on the "Templates" sheet\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b name\cell}
+\intbl{\qc\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 the name of the element, such as "Attack", "Movement", "Range", etc\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b nature\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 must be either "text", "image", or "shape". If "text", the element will be a textbox (may be empty, or with a transparent background). If "image", an image file will be inserted. If "shape", it will be one the shapes shown on the "shapes" tab, as defined in the "font" field\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b frontback\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 indicates whether the element is to appear on the front or the back of the counter, or both; "f", "b", or "fb"\cell}\row
+}{\*\wptable\tblright-90}{\pard\trowd\trgaph0\trleft0\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx10862\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 The following 4 fields are defined relative to an imaginary grid drawn on the counter. The size of the grid is defined on the "sizes" sheet\cell}\row
+}{\*\wptable\tblright-90}{\pard\trowd\trgaph0\trleft0\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx1448\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx10862\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b left\plain\f7\fs20\cf0 , \plain\f7\fs20\cf0\b top\cell}
+\intbl{\qc\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 starting coordinates of the element within the counter\cell}\row
+}{\*\wptable\tblright-90}{\pard\trowd\trgaph0\trleft0\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx1448\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx9456\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx10862\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b width\plain\f7\fs20\cf0 , \plain\f7\fs20\cf0\b height\cell}
+\intbl{\qc\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 self-explanatory\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 bottom, right: end coordinates of the line\cell}\row
+}{\*\wptable\tblright-90}{\pard\trowd\trgaph0\trleft0\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx1448\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx4344\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx5537\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx9456\clbrdrt\brdrs\clbrdrb\brdrs\clbrdrl\brdrs\clbrdrr\brdrs\brdrw15\cellx10862\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b font\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 font name (default is arial)\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 the type of shape. The name used here must correspond to a shape found on the "shapes" tab\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b size\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 font size. Default is 2/3 of the element height, but this does not always give the best results. However if you set a value manually, you may have to change it if you change the counter size\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 this is the border thickness. If 0, there is no border. Note that borders extend beyond the area defined for the shape, so for thick borders (> 1) this may need to be taken into account for left, top, width and height (this is also true for arc and blockarc shapes with various values of p1 and p2, and for any shape for some rotation angles)\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b bold\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 TRUE if the text is to be in bold\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 maintain aspect ration\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b uline\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 TRUE if underlined\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b orientation\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 UP or DOWN for vertical text, defaults to horizontal\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b align\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 LEFT or RIGHT, or centre, default is centered\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b valign\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 top, bottom or middle or RIGHT, default is centered\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b transp\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 1 if the background is 100% transparent\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b empty\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 TRUE if the element should appear even if there is no text, a "reduced" stripe for example. This can also be accomplished differently; see \plain\f7\fs20\cf3\uldb\ul Colours\plain\f7\fs20\cf0 .\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b P1\plain\f7\fs20\cf0  and \plain\f7\fs20\cf0\b p2\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 the shape parameters, different for each shape; see the "shapes" tab for their use and valid values\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b angle\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 rotation angle in degrees for the shape, negative is clockwise, positive is anticlockwise\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0\b \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+}{\*\wptable\tblleft15\tblright-105}{\pard\trowd\trgaph0\trleft15\clvertalc\clshdng10000\clcfpat13\clcbpat12\cellx994\clshdng10000\clcfpat13\clcbpat12\cellx10877\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 {\*\wptools{110e0a005457504f496d6167650054504630095457504f496d616765000757696474685457038403084865696768745457038403064f626a54616702000c57726974655254464d6f6465070f776f624f6e6c795374616e646172640a53747265616d4e616d65062c464639363031434236354646374133414330313942313537343841444646433532454633453238322e626d700b5472616e73706172656e7408105472616e73706172656e74436f6c6f720707636c426c61636b000000000000}}
+{\field{\*\fldinst{INCLUDEPICTURE "FF9601CB65FF7A3AC019B15748ADFFC52EF3E282.bmp" MERGEFORMAT}}}\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 The order of the elements is important, as they are drawn in order, and a later element will be superimposed on an earlier element. In the following sheets, the element order must be identical\plain\f2\fs20\cf0 .\cell}\row
+}\pard{\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_Schemes}{\*\bkmkend _topic_Schemes}\par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b Schemes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs26\cf18\b \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs26\cf18\b Schemes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 List of colour schemes.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 As a general rule, for each template there will be several colour schemes, one for each army or nationality. It is also possible to use a single colour scheme for several templates, so long as all elements are similar. For example, infantry, cavalry and artillery units in the NAP example can use the same colour schemes, because  even though the positions of some of the values are different they are in the same order of the same nature.\par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_ElementColours}{\*\bkmkend _topic_ElementColours}\plain\f6\fs26\cf18\b Element Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs26\cf18\b \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs26\cf18\b Element Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 List of foreground and background colours for each colour scheme. For each scheme there must be two additional lines for the front and back of the counter. The colours used must correspond to one of the colours defined on the "colours" sheet. I have put colours almost everywhere, but in some cases these are unnecessary (foreground for the front and back values, or background for the back if covered by a flag, for example). If a colour is needed but not given, or the colour name is unknown, it defaults to black. For shapes, the foreground corresponds to the border, and the background to the fill colour.\par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_UserColours}{\*\bkmkend _topic_UserColours}\plain\f6\fs26\cf18\b User Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_Tabs1}{\*\bkmkend _topic_Tabs1}\plain\f6\fs26\cf18\b Reference tabs\par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs22\cf18\b {\*\bkmkstart _topic_Colours}{\*\bkmkend _topic_Colours}\plain\f6\fs22\cf18\b Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs26\cf18\b Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 List of colour names.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Each name defines a unique RGB colour value. As mentioned above, Excel can only use 56 colours for cells, so the example column is not 100% accurate. I have defined a fairly comprehensive list of colours, and some specific nationalities. Other colours can be defined as needed. A good reference is http://en.wikipedia.org/wiki/List_of_colours.\par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs22\cf18\b {\*\bkmkstart _topic_Shapes}{\*\bkmkend _topic_Shapes}\plain\f6\fs22\cf18\b Shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b Shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 This tab shows the list of available shapes. \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 - list of MS shapes => may not all be available in future versions\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 - can be given any name (can => drum or fuel)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 - border / fill, ZUI border thickness\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 - flip / rotate\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 - p1, p2 => test different values\par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs22\cf18\b {\*\bkmkstart _topic_Gradients}{\*\bkmkend _topic_Gradients}\plain\f6\fs22\cf18\b Gradients\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_CardCounterLists}{\*\bkmkend _topic_CardCounterLists}\plain\f6\fs26\cf18\b Manifests\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs26\cf18\b List (or any other name for the unit list)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Finally, what we have all been waiting for...\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 The first three columns must be the Size, the Template and the Scheme. The other columns depend on the unit Template, and must be given in the same order as defined on the elements tab. You can insert header rows as an aid, but in this case the Size field of the row must be blank. For images, the name must correspond to an existing file in the "images" subfolder. Do not give an extension; gif, jpg or png is assumed. To launch the unit generation, click on the "Go" button. A new sheet will be created with the generated counters. You can generate the counters as many times as you like, a new sheet will be created each time. Do not forget to delete unwanted counter sheets, otherwise the file will become very large.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 You can temporarily mark a unit with an "x" in the first column; it will not be generated.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 For shapes, the contents of the element should remain blank. If a value is given, it must either be a valid colour name as defined on the "colours" tab, or -1. If the contents is a colour, this will override the default fill colour given on the "fieldcolours" tab. If -1, the shape will be hidden for this unit.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 ++/+++\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+{\brdrb\brdrs\brdrw15\ql\li0\fi0\ri0\sb75\sl0\sa450 \plain\f6\fs28\cf17\b {\*\bkmkstart _topic_Elements}{\*\bkmkend _topic_Elements}\plain\f6\fs28\cf17\b Elements\par
+}\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Coordinates are left, top, width, height\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Text\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - text\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - background/gradient\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - no border\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Image\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - ZUI quality\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - cannot be rotated or flipped\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - for same template, all images should have same aspect ratio\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Shape\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - no text\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - border/fill/gradient\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - value = colour\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Line\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - no text\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - foreground\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - value = colour\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - x1,y1 & x2,y2 instead of t,l,b,r\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_Text}{\*\bkmkend _topic_Text}\plain\f6\fs26\cf18\b Text\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_Images}{\*\bkmkend _topic_Images}\plain\f6\fs26\cf18\b Images\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_Shapes2}{\*\bkmkend _topic_Shapes2}\plain\f6\fs26\cf18\b Shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_Lines}{\*\bkmkend _topic_Lines}\plain\f6\fs26\cf18\b Lines\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf13\i \par
+\page{\brdrb\brdrs\brdrw15\ql\li0\fi0\ri0\sb75\sl0\sa450 \plain\f6\fs28\cf17\b {\*\bkmkstart _topic_Tutorial}{\*\bkmkend _topic_Tutorial}\plain\f6\fs28\cf17\b Tutorial\par
+}\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 The two example sheets show some simple modern Panzerblitz style counters, and a very much more elaborate set of napoleonic counters.\par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_Basic}{\*\bkmkend _topic_Basic}\plain\f6\fs26\cf18\b Templates\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b Templates\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 In this first tutorial, we will create some simple counters, and see how to create a basic template.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 We will create a new set of counters for the classic Napoleon at Waterloo (NAW), 1st edition, originally published by SPI in 1971.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright-60}{\pard\trowd\trgaph0\trleft0\cellx3865\cellx10832\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 To the right is a scan of the original countersheet (Note that the 1973 edition of the game had an additional British 1-4 infantry unit to garrison Hougoumont).\line \line As you can see, all units have the same simple layout, a standard NATO symbol, a size indicator, an ID, and two values separated by a hyphen. We therefore identify the following 6 elements:\line ID: text\line symbol: image\line size: text\line combat strength: text\line separator: text\line movement allowance: text\line \line To make things even simpler, it is possible to consider the last three elements as a single text element.\line \line For the symbol, I will use some NATO symbols I have made myself, but alternatively, we could use a combination of lines and shapes, or a NATO symbol font.\line \line Next, we determine the grid size and then the grid coordinates for each element. Usually I use a standard grid size of 24, but in this case we can use a much simpler grid size of 12.\line \line We use this imaginary grid to position each element and determine coordinates and dimensions.\line \line \plain\f2\fs20\cf0 {\*\wptools{110e0a005457504f496d6167650054504630095457504f496d61676500075769647468545703f20d08486569676874545703c50d064f626a54616702000c57726974655254464d6f6465070f776f624f6e6c795374616e646172640a53747265616d4e616d65062c323545323537453743303345464631343942434246393035303044304535344235413638373432432e626d700b5472616e73706172656e7408105472616e73706172656e74436f6c6f720707636c426c61636b000000000000}}
+{\field{\*\fldinst{INCLUDEPICTURE "25E257E7C03EFF149BCBF90500D0E54B5A68742C.bmp" MERGEFORMAT}}}\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 {\*\wptools{110e0a005457504f496d6167650054504630095457504f496d616765000757696474685457037b1608486569676874545703211e064f626a54616702000c57726974655254464d6f6465070f776f624f6e6c795374616e646172640a53747265616d4e616d65062c343636393646363531433943414630303632434430303346363045303446364144313536304646302e626d700b5472616e73706172656e7408105472616e73706172656e74436f6c6f720707636c426c61636b000000000000}}
+{\field{\*\fldinst{INCLUDEPICTURE "46696F651C9CAF0062CD003F60E04F6AD1560FF0.bmp" MERGEFORMAT}}}\cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 Note that we don't have to respect exactly the original layout, it just serves as a guide for our new template.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 We now need to input the template into the app. We first add a line on the templates tab:\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright2680}{\pard\trowd\trgaph0\trleft0\clshdng10000\clcfpat13\clcbpat12\cellx3332\clshdng10000\clcfpat13\clcbpat12\cellx8092\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Name\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Comment\cell}\row
+}{\*\wptable\tblright2680}{\pard\trowd\trgaph0\trleft0\cellx3332\cellx8092\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b Napoleon at Waterloo, 1st edition.\cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 On the elements tab, we input the details for the 4 elements:\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright385}{\pard\trowd\trgaph0\trleft0\clshdng10000\clcfpat13\clcbpat12\cellx1914\clshdng10000\clcfpat13\clcbpat12\cellx3136\clshdng10000\clcfpat13\clcbpat12\cellx4358\clshdng10000\clcfpat13\clcbpat12\cellx5539\clshdng10000\clcfpat13\clcbpat12\cellx6761\clshdng10000\clcfpat13\clcbpat12\cellx7983\clshdng10000\clcfpat13\clcbpat12\cellx9165\clshdng10000\clcfpat13\clcbpat12\cellx10387\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b template\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Name\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Nature\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b frontback\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b left\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b top\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b width\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b height\cell}\row
+}{\*\wptable\tblright385}{\pard\trowd\trgaph0\trleft0\cellx1914\cellx3136\cellx4358\cellx5539\cellx6761\cellx7983\cellx9165\cellx10387\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b id\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b text\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b f\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 9\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 4\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 3\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 3\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b type\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b image\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b f\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 4\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 4\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 5\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 3\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b size\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b text\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b f\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 4\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 2\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 5\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 2\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b values\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b text\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b f\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 2\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 7\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 10\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 5\cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 The other fields - font, size, etc - all have default values, so we will leave them blank for now.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 The second stage is to create the colour schemes. We will need three schemes, one for each nationality, with black text on a coloured background. We will start with the British (Anglo-Allied) army, a simple black on red. We need to input the following into the Schemes and ElementColours tabs. We don't need to use the NAW prefix for the scheme names, but as I am including several examples in the same file, it helps to keep things clear.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright3805}{\pard\trowd\trgaph0\trleft0\clshdng10000\clcfpat13\clcbpat12\cellx2595\clshdng10000\clcfpat13\clcbpat12\cellx6967\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Name\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Comments\cell}\row
+}{\*\wptable\tblright3805}{\pard\trowd\trgaph0\trleft0\cellx2595\cellx6967\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Br\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW British\cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright3265}{\pard\trowd\trgaph0\trleft0\clshdng10000\clcfpat13\clcbpat12\cellx2178\clshdng10000\clcfpat13\clcbpat12\cellx3414\clshdng10000\clcfpat13\clcbpat12\cellx5475\clshdng10000\clcfpat13\clcbpat12\cellx7507\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Scheme\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Element\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b FG\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b BG\cell}\row
+}{\*\wptable\tblright3265}{\pard\trowd\trgaph0\trleft0\cellx2178\cellx3414\cellx5475\cellx7507\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Br\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b front\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b red\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Br\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b back\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Br\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b id\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b black\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b red\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Br\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b type\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Br\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b size\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b black\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b red\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Br\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b values\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b black\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b red\cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 Note the obligatory front and back lines, even though for the time being we are going to generate single-sided counters. There is no need to put a foreground colour for the front, it will never be used. Nor do we need to specify colours for the type symbol, it is an image. Note too, that we have specified a red background for the text values; Alternatively, we could declare a transparent background as the whole unit already has a red background. Finally, note that we are using the predefined system colour called RED. We could also have input a decimal value; \plain\f6\fs20\cf3\b 255\plain\f2\fs20\cf0 , an RGB triplet; \plain\f6\fs20\cf3\b (255, 0, 0)\plain\f2\fs20\cf0 , or a hex value; \plain\f6\fs20\cf3\b #FF0000\plain\f2\fs20\cf0 . However, using a named colour is more convenient, as we will see later. We will not be using gradients in this example, so there is no need to fill the BG2, Gradtype and Gradval columns.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 We now add two colour schemes for the Prussian and French armies, using LT_TURQUOISE and LT_BLUE for the background colours..\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright3805}{\pard\trowd\trgaph0\trleft0\cellx2595\cellx6967\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Pr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Prussian\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Fr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW French\cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright3295}{\pard\trowd\trgaph0\trleft0\cellx2169\cellx3401\cellx5453\cellx7477\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Pr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b front\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b lightturquoise\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Pr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b back\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Pr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b id\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b black\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b lightturquoise\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Pr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b type\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Pr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b size\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b black\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b lightturquoise\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Pr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b values\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b black\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b lightturquoise\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Fr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b front\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b lightblue\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Fr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b back\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Fr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b id\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b black\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b lightblue\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Fr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b type\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Fr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b size\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b black\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b lightblue\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Fr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b values\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b black\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b lightblue\cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 Having accomplished these two vital preliminary steps, we are almost ready to start inputting our counter manifest, but beforehand we also need to check the parameters and sizes tabs.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright6895}{\pard\trowd\trgaph0\trleft0\clshdng10000\clcfpat13\clcbpat12\cellx1946\clshdng10000\clcfpat13\clcbpat12\cellx3877\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Parameter\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Value\cell}\row
+}{\*\wptable\tblright6895}{\pard\trowd\trgaph0\trleft0\cellx1946\cellx3877\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 Margin\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 15\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 Sprue Height\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 10\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 Image folder\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 Border colour\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b grey60\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 Double sided\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b FALSE\cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 On the Parameters tab, we need to make sure that the Image folder is correct, set the border colour, and say whether we want to generate single- or double-sided counters.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright1105}{\pard\trowd\trgaph0\trleft0\clshdng10000\clcfpat13\clcbpat12\cellx2350\clshdng10000\clcfpat13\clcbpat12\cellx3563\clshdng10000\clcfpat13\clcbpat12\cellx4776\clshdng10000\clcfpat13\clcbpat12\cellx5989\clshdng10000\clcfpat13\clcbpat12\cellx7240\clshdng10000\clcfpat13\clcbpat12\cellx8453\clshdng10000\clcfpat13\clcbpat12\cellx9667\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Name\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Width\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Height\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b Rowsize\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b BlockSize\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b HGridsize\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16\b VGridsize\cell}\row
+}{\*\wptable\tblright1105}{\pard\trowd\trgaph0\trleft0\cellx2350\cellx3563\cellx4776\cellx5989\cellx7240\cellx8453\cellx9667\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 THREE_QUARTER\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 54\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 54\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 5\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 2\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 24\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 24\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 HALF\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 36\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 36\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 7\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 2\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 12\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 12\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 CARDS\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 162\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 234\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 1\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 3\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 24\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf16 24\cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 On the sizes tab, there are a number of preset sizes. We will generate half-inch counters in this example. We do not need to change the width and height values, but we set the other columns to our desired values. In particular, we need to set the horizontal and vertical grid size to 12, so that the coordinates and dimensions determined earlier are correct.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 We are now ready to start creating the counter manifest. Referring to the original countersheet, we see that the first unit is the British 1Gd infantry division, with values of 7-4. For the values, we insert spaces around the hyphen. On the manifest tab the first three columns must be size, template, and scheme, followed by the elements in order. We don't have to have a header row, but it makes the list easier to understand. We shall start by creating one unit for each nationality.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright1150}{\pard\trowd\trgaph0\trleft0\clshdng10000\clcfpat13\clcbpat12\cellx867\clshdng10000\clcfpat13\clcbpat12\cellx2679\clshdng10000\clcfpat13\clcbpat12\cellx4716\clshdng10000\clcfpat13\clcbpat12\cellx5961\clshdng10000\clcfpat13\clcbpat12\cellx7169\clshdng10000\clcfpat13\clcbpat12\cellx8414\clshdng10000\clcfpat13\clcbpat12\cellx9622\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs16\cf16\b Size\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs16\cf16\b template\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs16\cf16\b Scheme\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs16\cf16\b id\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs16\cf16\b type\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs16\cf16\b size\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs16\cf16\b values\cell}\row
+}{\*\wptable\tblright1150}{\pard\trowd\trgaph0\trleft0\cellx867\cellx2679\cellx4716\cellx5961\cellx7169\cellx8414\cellx9622\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b HALF\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Br\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 1 Gd\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b inf\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b XX\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 7 - 4\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b HALF\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Pr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b inf\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b XX\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 5 - 4\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b HALF\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Fr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b Gren Gd\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b inf\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b XX\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 7 - 4\cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 We could input the whole countersheet straight away, but as we are impatient to obtain a result, we can generate these three counters right now. We click on Generate all in the CCG menu, and this is what we obtain:\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 {\*\wptools{110e0a005457504f496d6167650054504630095457504f496d61676500075769647468545703761108486569676874545703dc05064f626a54616702000c57726974655254464d6f6465070f776f624f6e6c795374616e646172640a53747265616d4e616d65062c324431413334333930384435423230463631394232333343323738333635394530443936334245302e626d700b5472616e73706172656e7408105472616e73706172656e74436f6c6f720707636c426c61636b000000000000}}
+{\field{\*\fldinst{INCLUDEPICTURE "2D1A343908D5B20F619B233C2783659E0D963BE0.bmp" MERGEFORMAT}}}\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 For a first attempt, these are pretty good. We notice that the size symbol is cut off at the bottom, and that the font for the ID is too big. We would also like a greener colour for the Prussians.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 We start by moving the size up one, and increasing the height by one.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright5275}{\pard\trowd\trgaph0\trleft0\cellx1379\cellx2759\cellx4117\cellx5497\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 4\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 1\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 5\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 3\cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 We then try setting a font size for the ID. However, even making the font very small (4), we cannot see the full text. Making the font any smaller would make it illegible, and units with shorter IDs would also have the very small size. We could solve this last problem by creating two templates, one with a very small font, the other with the default size, but this is needlessly complicated. For this simple example we will set an intermediate font size, and abbreviate the IDs. We also make the ID one wider.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright3145}{\pard\trowd\trgaph0\trleft0\cellx1286\cellx2542\cellx3828\cellx5084\cellx6370\cellx7627\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 9\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 4\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 4\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 3\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 6\cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 4\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 4\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 5\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 3\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}\row
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 4\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 1\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 5\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 3\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright3295}{\pard\trowd\trgaph0\trleft0\cellx2169\cellx3401\cellx5453\cellx7477\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Pr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b front\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b PaleGreen\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Pr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b back\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Pr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b id\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b black\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b PaleGreen\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Pr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b type\cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\qr\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Pr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b size\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b black\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b PaleGreen\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Pr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b values\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b black\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b PaleGreen\cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 Note that we have to change the colour four times. If we had used transparent backgrounds for the text elements, we would only have had to change the back background. An even better solution would have been to define colours for each nationality on the UserColour tab. We could then change that colour definition just once, and all instances of that colour would be changed.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+}{\*\wptable\tblright1150}{\pard\trowd\trgaph0\trleft0\cellx867\cellx2679\cellx4716\cellx5961\cellx7169\cellx8414\cellx9622\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b HALF\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Br\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 1Gd\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b inf\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b XX\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 7 - 4\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b HALF\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Pr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b \cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b inf\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b XX\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 5 - 4\cell}\row
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b HALF\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b NAW Fr\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b GG\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b inf\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b XX\cell}
+\intbl{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs20\cf3\b 7 - 4\cell}\row
+}\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 This gives us the following result.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 {\*\wptools{110e0a005457504f496d6167650054504630095457504f496d61676500075769647468545703761108486569676874545703dc05064f626a54616702000c57726974655254464d6f6465070f776f624f6e6c795374616e646172640a53747265616d4e616d65062c393841393333434632413330383530353432413037464236453245383539344238373146343746342e626d700b5472616e73706172656e7408105472616e73706172656e74436f6c6f720707636c426c61636b000000000000}}
+{\field{\*\fldinst{INCLUDEPICTURE "98A933CF2A30850542A07FB6E2E8594B871F47F4.bmp" MERGEFORMAT}}}\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 We are now ready to input the full counter manifest.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_Basic1}{\*\bkmkend _topic_Basic1}\plain\f6\fs26\cf18\b Values\par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_Colours2}{\*\bkmkend _topic_Colours2}\plain\f6\fs26\cf18\b Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_Shapes3}{\*\bkmkend _topic_Shapes3}\plain\f6\fs26\cf18\b Shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb150\sl0\sa150 \plain\f6\fs26\cf18\b {\*\bkmkstart _topic_Cards}{\*\bkmkend _topic_Cards}\plain\f6\fs26\cf18\b Cards\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+{\brdrb\brdrs\brdrw15\ql\li0\fi0\ri0\sb75\sl0\sa450 \plain\f6\fs28\cf17\b {\*\bkmkstart _topic_LayoutBuilder}{\*\bkmkend _topic_LayoutBuilder}\plain\f6\fs28\cf17\b Layout Builder\par
+}\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f6\fs28\cf17\b {\*\wptools{110e0a005457504f496d6167650054504630095457504f496d616765000757696474685457035208084865696768745457035208064f626a54616702000c57726974655254464d6f6465070f776f624f6e6c795374616e646172640a53747265616d4e616d65062c433935334133313233303046303936463235433538454632443338343538334538324132463644382e626d700b5472616e73706172656e7408105472616e73706172656e74436f6c6f720707636c426c61636b000000000000}}
+{\field{\*\fldinst{INCLUDEPICTURE "C953A312300F096F25C58EF2D384583E82A2F6D8.bmp" MERGEFORMAT}}}\plain\f7\fs20\cf0  \plain\f7\fs20\cf0 {\*\wptools{110e0a005457504f496d6167650054504630095457504f496d61676500075769647468545703491d08486569676874545703541d064f626a54616702000c57726974655254464d6f6465070f776f624f6e6c795374616e646172640a53747265616d4e616d65062c344535333245363646303233304331363331313032384231373441423145434641354441444433362e626d700b5472616e73706172656e7408105472616e73706172656e74436f6c6f720707636c426c61636b000000000000}}
+{\field{\*\fldinst{INCLUDEPICTURE "4E532E66F0230C16311028B174AB1ECFA5DADD36.bmp" MERGEFORMAT}}}\par
+{\brdrb\brdrs\brdrw15\ql\li0\fi0\ri0\sb75\sl0\sa450 \plain\f6\fs28\cf17\b {\*\bkmkstart _topic_HistoryToDo}{\*\bkmkend _topic_HistoryToDo}\plain\f6\fs28\cf17\b History / To Do\par
+}\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b History\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 This version is written for Excel 2000 and 2003. I have not tested it with Excel 2007 and later.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 v.1\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 The initial version of this app was for Powerpoint. All values, colours and positions were hard-coded into the programme, which made it difficult to setup and tweak. The output however was very good and immediately useable.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 v.2\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 To facilitate the storing of unit values, I ported the Powerpoint macros into Excel. In this straight port, all values and colours were on a single sheet, and sizes and positions remained hard-coded. Excel does however present a number of disadvantages and limitations compared to Powerpoint:\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - colour management (cells)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - output print-size\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - upside-down and angled text\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - outline and shadow fonts\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 v.3\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 With this version I switched to the current solution of multiple worksheets. While this may seem more complicated, it gives the user total control over all aspects of his counters. This version was the first to be released, via grognard.com, with a subject on CSW. Response was very limited...\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - square output only\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - user colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - fully configurable templates and colour schemes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - brief text notes file\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 v.3.1\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - colour gradients for backgrounds\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - x to skip counter\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 v.3.2\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - this version was never finalized \plain\f7\fs20\cf0\strike abandoned when I ran into personal difficulties\plain\f7\fs20\cf0 . When I came back to the app I found it easier to start again \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 v.3.3\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - italics\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 v.4.0\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 This will probably be the final Excel version, and is virtually final in terms of capabilities\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - complete code rewrite\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - modified tab structure\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - rectangular output\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - lines\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - n identical counters\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - 0 counters\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - incremented values\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - blocks/sprues\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - image subfolder\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - border colour\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - single-sided\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - hex colours, rgb triplets\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - true colour samples\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - \plain\f7\fs20\cf1 -1 transparency\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - gradients for text, shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - BLANK template\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - comprehensive help file, tutorial\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Future plans\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - XL split data from app\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - VB standalone version\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - generate SVG, PNG files\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - output countersheet, individual counters, GTL\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - template designer\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 ToDo\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - menus\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - test for page size when new row, if new page jump and reset group/sprue\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - +++\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - click on colour sample opens dialog\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - reset colour samples/shapes when activate sheet\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - generate selection\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - password on macros/protected sheets\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - define user colours by syscolour name\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Promotion\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - finish app\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - test/debug\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - help/tutorial/examples\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - online promotion (bgg, csw, grog, strat, estaf, ldb, tric)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 - collaboration (inkscape, java/png)\par
+{\brdrb\brdrs\brdrw15\ql\li0\fi0\ri0\sb75\sl0\sa450 \plain\f6\fs28\cf17\b {\*\bkmkstart _topic_Acknowledgements}{\*\bkmkend _topic_Acknowledgements}\par
+\ql\li0\fi0\ri0\sb75\sl0\sa450 \plain\f6\fs28\cf17\b Acknowledgements\par
+}\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs28\cf17\b Acknowledgements\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Some of the sample images are used with the kind permission of GMT Games LLC.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 The other sample images are either created by myself, or taken from AH's Panzerblitz or found on the net.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 If any rights-holders have any objections to the inclusion of their images with this package, please get in touch with me and I will remove them at once.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 GMT\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 blueprints.com\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 Tom Moatt\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 other ?\par
+{\brdrb\brdrs\brdrw15\ql\li0\fi0\ri0\sb75\sl0\sa450 \plain\f6\fs28\cf17\b {\*\bkmkstart _topic_Licence}{\*\bkmkend _topic_Licence}\plain\f6\fs28\cf17\b Licence\par
+}\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 shareware\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 email\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 contribution (20/50/100)\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 credit\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 game\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f7\fs20\cf0 }}
+}
+
+
+
+
+<end node> 5P9i0s8y19Z
+id=75
+nodeguid=1DB66C13D31C5F8029353E9AD02988C6A538FC52
+dtch=20200912-162950
+usrch=christopher.newell
+dtcr=20200912-162058
+usrcr=christopher.newell
+dt=RTF
+<node>
+New Doc
+1
+{\rtf1\ansi\deff0\deftab850{\fonttbl{\f0\fnil\fcharset0 consolas;}{\f1\fnil\fcharset0 consolas;}{\f2\fnil\fcharset0 Verdana;}{\f3\fnil\fcharset0 Vani;}{\f4\fnil\fcharset0 Utsaah;}{\f5\fnil\fcharset0 Tw Cen MT Condensed Extra Bold;}{\f6\fnil\fcharset0 Tw Cen MT Condensed;}{\f7\fnil\fcharset0 Tw Cen MT;}{\f8\fnil\fcharset0 Tunga;}{\f9\fnil\fcharset0 Trebuchet MS;}{\f10\fnil\fcharset0 Traditional Arabic;}{\f11\fnil\fcharset0 Times New Roman;}{\f12\fnil\fcharset2 symbol;}{\f13\fnil\fcharset2 WingDings;}}{\colortbl\red0\green0\blue0;\red255\green0\blue0;\red0\green128\blue0;\red0\green0\blue255;\red255\green255\blue0;\red255\green0\blue255;\red128\green0\blue128;\red128\green0\blue0;\red0\green255\blue0;\red0\green255\blue255;\red0\green128\blue128;\red0\green0\blue128;\red255\green255\blue255;\red192\green192\blue192;\red128\green128\blue128;\red0\green0\blue0;}\wptoolsver4\wpprheadfoot0\paperw11906\paperh16838\margl567\margr567\margt567\margb567\headery720\footery720{\*\listtable{\list\listtemplateid19690212{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc1{\leveltext\'02\'00.;}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc3{\leveltext\'02\'01.;}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc4{\leveltext\'02\'03);}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc2{\leveltext\'02\'04);}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc4{\leveltext\'02\'05);}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc0{\leveltext\'02\'06);}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc0{\leveltext\'02\'07);}{\levelnumbers\'01;}}
+{\listlevel\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent360\levelnfc0{\leveltext\'02\'08);}{\levelnumbers\'01;}}
+\listid1194737}}{\*\listoverridetable{\listoverride\listid1194737\listoverridecount0\ls1}}\endnhere\sectdefaultcl{\pard{\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 CCG\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Introduction\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Overview\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Typographic conventions\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Generator\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Parameters\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Sizes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Templates\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       text\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       images\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       lines\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       icons\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       pixels ?\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Colour Schemes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     User Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Counter Sheets\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Ribbon/Menus\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Tutorial\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Templates\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Values\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       ++,++n\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Overrides\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Cards\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Sample Files\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Layout Builder\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Reference\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Tabs\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Parameters\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Sizes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Templates/Elements\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Colour Schemes/Element Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       User Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Counter Sheets\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Elements\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Text\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Images\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         size\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         aspect-ratio\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Icons\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         colour\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Pixels ?\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Lines\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         Rectangle\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         Circle\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         Triangle\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         Hexagon\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         Arrow\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         Explosion\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         Others...\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         User-defined\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       RGB Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       CSS Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Acknowledgments\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   History/To-do\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Contact\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   About\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   CCG\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Introduction\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 Many years ago, around 2007, I had some ideas about creating some games, and I was also helping to playtest somebody else's game. I wanted a system to create counters easily, and maybe more importantly, modify them just as easily. As I was working a lot at the time with Excel and VBA, this seemed like the easiest solution. However, maybe in order to more easily manage page sizes and printing, for some reason that I don't recall I at first decided to use Powerpoint as a base tool rather than Excel.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 The first version of my counter generator, using PPT, saw the light of day in 2008, and while it gave quite good results, every value was hard-coded into the VBA, which was hardly practical and went against my initial intention. I then toyed with the idea of working in Word, as I could store values in a table, but soon abandoned this idea too and went back to my first idea of using Excel.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 The first Excel version, v2 of the app, was a straight port of the PPT, still hard-coding values into the VBA code, but helped me develop my idea and showed me that it could be done.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 V3 was the next version, with counter values moved to a manifest sheet, and a lot of the counter layout and colour info moved to Excel tabs too. There were a number of sub-versions, up to v3.3, with incremental improvements, and at the same time I uploaded the app to grognard.com and opened a thread on consimworld, but it never gained much traction.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 Then, for personal reasons there was a bit of a hiatus until 2011/2012, when I started work on v4. This included some significant improvements, and a complete re-write of the code. I also implemented Excel menus (for Excel 2003 which was still the version I was working with, so no ribbon) and started separating the code from the data, to make it easier to deploy upgrades, and as an intermediate step to a v5 which was going to be a standalone app, with an Excel-like graphical interface, but which could be used by anyone without requiring any external software. After several aborted starts I decided on Python as the programming language, but at some point in 2012, again for personal reasons, this all fizzled out and I didn't work on the app for a number of years, though I did use it from time to time to make some personal or replacement counters for games I was playing.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 Several years went by, until around 2018 or 2019 when I again started looking at creating a standalone app, as at that time I was doing quite a bit of scripting in Python and was beginning to feel that my knowledge of the language had improved sufficiently to give it a go. But again, creating the UI proved to be a stumbling-block, and things never really got off the ground, though this remains the ultimate goal\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 It took Covid-19 and lockdown for things to begin moving again. In late 2019 I began working on a game (those from 2007 are still ideas, but this one is actually progressing well and I hope that it will be ready in the relatively near future), and used my old app to create the playtest counters, using Zuntzu as a platform for my own playtesting. This and too much time during lockdown led me to Rich Perez and the Europa IO group, and a renewed interest in the Excel version, which I again improved quite substantially with ideas I had been keeping for the Python standalone, but which I decided to incorporate into Excel. This required some structural changes, and I completely split the code from the data, and these changes were significant enough to warrant calling it v5.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 So here we are in September 2020, and I'm once again putting this out on the web for other people to try. Hopefully people will find it useful.So, that being said, the Card and Counter Generator is an aid for game designers, both professional and amateur. Most designers maintain some sort of counter manifest or list, and then use some graphical application to create the playtest counters for their game. There are some wonderful tools that do this, such as nandeck or Pelle Nilsson's Inkscape extensions, but this app allows designers to do both within a single tool, removing the artificial barrier between the two, and allowing them to maintain their counter lists and update their counters instantly.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 The app doesn't create professional print files, and therefore can only be used for printing playtest or dtp counters. It can however be used to compare final production artwork before printing against the manifest to check for errors and omissions. And depending on the style of counters and the images that you use, the counters are at least as good as many that I see in commercially printed games.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 Going forward, if I succeed in my aim of generating SVG files from the app, it will become possible to then import the counters into a final software to produce print-ready files.The app was designed initially for creating counters. It has since been considerably improved and can also be used to create cards just as easily. Cards are just large counters, with in general more text. In this document, any reference to counters will also apply to cards unless otherwise stated.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Overview\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 Traditionally, a game designer makes a list of counters/cards, often with some sort of spreadsheet software, and separately he puts together a set of playtest counters/cards using a graphics programme, or sometimes even by hand.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 This app enables you to keep the two processes together, instantly updating your cards/counters whenever you modifiy the manifest.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 The creation process is split into 3 major phases.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 The first is to create the various templates required for the counters/cards. Each template defines precisely what sort of information (text, box, line, image, etc) will appear on each counter, and where (position, front/back, ...). These templates are independent of the side/nationality, so for example infantry units from both sides can share the same template.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 The second phase is to define the colour schemes. Each scheme defines the colours for each element, and is therefore usually tied to a specific template, though this is not necessarily always true.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 The final phase is to fill in the counter/card manifest, defining for each counter/card which template to use, which colour scheme, and which values to assign to each element.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 You must also specify a few general parameters and the sizes to be used.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 Once these steps are carried out, you are ready to generate your counter/card sheets. In fact you can start generating as soon as you have defined your first template and colour scheme, and input a first set of values.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 \par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 Once the templates and schemes defined, they will probably not change that much, but unless you are lucky, the manifest will be where you make the most changes.\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Typographic conventions\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0 input: \plain\f1\fs20\cf0 this is user input\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Usage\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Parameters\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Sizes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Templates\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       text\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       images\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       lines\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       icons\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       pixels ?\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Colour Schemes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     User Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Counter Sheets\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Ribbon/Menus\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Tutorial\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Templates\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Values\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       ++,++n\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Overrides\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Cards\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Sample Files\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Layout Builder\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Reference\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Tabs\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Parameters\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Sizes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Templates/Elements\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Colour Schemes/Element Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       User Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Counter Sheets\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Elements\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Text\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Images\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         size\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         aspect-ratio\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Icons\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         colour\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Pixels ?\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Lines\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       Shapes\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         Rectangle\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         Circle\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         Triangle\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         Hexagon\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         Arrow\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         Explosion\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         Others...\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0         User-defined\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0     Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       RGB Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0       CSS Colours\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Acknowledgments\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   History/To-do\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   Contact\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   About\par
+\ql\li0\fi0\ri0\sb0\sl0\sa0 \plain\f2\fs20\cf0   -----------------------------------------------------------------------}}
+}
+
+
+
+
+<end node> 5P9i0s8y19Z
